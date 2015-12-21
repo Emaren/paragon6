@@ -13,3 +13,101 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  background-image: url('ip4bg.jpg');
+  background-size: 1445px 825px;
+  background-position: -2px 825px;
+
+}
+
+.container {
+  display: inline-block;
+  margin: 50px 20px 50px 60px;
+}
+
+  #Messages {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Calendar {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Photos {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Camera {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Weather {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Settings {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Videos {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #iBooks {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Notes {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Clock {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #iTunes {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #App_Store {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Youtube {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Calculator {
+    display: inline-block;
+    margin: 40px 20px 60px 20px;
+  }
+
+  #Twitter {
+    display: inline-block;
+    position: absolute;
+    margin: 40px 20px 20px 25px;
+    border-radius: 9px;
+    height: 44px;
+    width: 46px;
+    box-shadow: 2px 6px 2px 2px rgba(0, 0, 0, 0.39) ;
+  }
+
+  .shelf {
+    position: fixed;
+    margin: 500px 100px 100px 530px;
+    width: 1000px;
+  }
