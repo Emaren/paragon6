@@ -1,0 +1,13 @@
+// Place all the styles related to the Notes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.notes-page {
+  transition: all .2s ease-in-out; 
+}
+
+
+.notes-page:hover {
+-webkit-transform: scale(2.0);
+-ms-transform: scale(1.3);
+transform: scale(1.3);
+}
